@@ -5,7 +5,7 @@
 
 // An addon so nice, even [blizzard is charmed by the thing]. <img width="500" height="550" alt="image" src="https://github.com/user-attachments/assets/73bd1fff-8627-489c-9c51-83a4f3020337" />
 
-[Source: [URL]([url](https://worldofwarcraft.blizzard.com/en-us/news/24244638))]
+([source: original artikal](https://worldofwarcraft.blizzard.com/en-us/news/24244638))]
 
 
 
