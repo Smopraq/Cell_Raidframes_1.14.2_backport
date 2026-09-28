@@ -5,22 +5,18 @@
 // Backport of the beautiful [Cell Raidframes](https://www.curseforge.com/wow/addons/cell) addon made by [Enderneko](https://github.com/enderneko).
 
 
-// An addon so nice, even [blizzard is charmed by the thing]
+// An addon so nice, even _blizzard is charmed by the thing_:
 
 [<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/d6338ee8-32be-4cce-83af-0db528215269" />](https://worldofwarcraft.blizzard.com/en-us/news/24244638#:~:text=Healing%20and%20Raid%20Frames)
 
-(Click on image for original artical)
-
 
 // Original v1.15.0 backported to v1.14.2 so you all privateers can enjoy nice raid frames too!
-
 // made to work for the WoW-client v1.14.2 that runs with the [jimproxy](https://github.com/jameopotato/jimsproxy) -on the [KronosV](https://www.kronos-wow.com/) 1.12.1 server.
 
 
 // Backport changelog
 
-
-[Backport v17]
+//[Backport v17]
 
 - Add a 1.14.2 compatibility fallback for `GetThreatStatusColor`, preventing Aggro Bar, Aggro Border, and Aggro Blink Lua errors when the API is unavailable.
 - Restore missing indicator `num` values from Vanilla defaults, fixing the `SetValue(nil)` Lua error when opening Missing Buffs settings.
@@ -29,10 +25,10 @@
 
 [Backport v16]
 
+- Integrated [_HealComm-4.0_](https://www.curseforge.com/wow/addons/libhealcomm-4-0)
 - Fix 1.14.2 Actions preview rotation and scale-animation compatibility.
 - Restore missing indicator color/filter settings from Vanilla defaults.
 - Preserve draggable options window, saved layouts, and all cumulative fixes.
-
 
 
 
