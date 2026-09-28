@@ -6,19 +6,18 @@
 // An addon so nice, even [blizzard is charmed by the thing]
 
 [<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/d6338ee8-32be-4cce-83af-0db528215269" />](https://worldofwarcraft.blizzard.com/en-us/news/24244638#:~:text=Healing%20and%20Raid%20Frames)
+
 [source: original artikal](https://worldofwarcraft.blizzard.com/en-us/news/24244638#:~:text=Healing%20and%20Raid%20Frames)
 
 
 
-// Original version 1.15.0 backported to 1.14.2 so you all privateers can enjoy nice raid frames too!
-
-
-
-
-// made to work for the World of warcraft client v1.14.2 that runs with the [jimproxy]([url](https://github.com/jameopotato/jimsproxy)) -on the [KronosV]([url](https://www.kronos-wow.com/)) 1.12.1 server.
-
-
-
+// Original v1.15.0 backported to v1.14.2 so you all privateers can enjoy nice raid frames too!
+//
+//
+// made to work for the WoW-client v1.14.2 that runs with the [jimproxy](https://github.com/jameopotato/jimsproxy) -on the [KronosV](https://www.kronos-wow.com/) 1.12.1 server.
+//
+//
+//
 // Backport changelog
 
 
