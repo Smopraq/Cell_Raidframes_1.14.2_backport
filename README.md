@@ -1,4 +1,4 @@
-# Cell Raidframes Backport 1.15.0 - > 1.14.2 
+# Cell Raidframes Backport wow client 1.15.0 - > client 1.14.2
 
 
 
@@ -11,7 +11,8 @@
 
 
 // Original v1.15.0 backported to v1.14.2 so you all privateers can enjoy nice raid frames too!
-// made to work for the WoW-client v1.14.2 that runs with the [jimproxy](https://github.com/jameopotato/jimsproxy) -on the [KronosV](https://www.kronos-wow.com/) 1.12.1 server.
+
+// made to work for the WoW client **1.14.2** that runs with the [**jimproxy**](https://github.com/jameopotato/jimsproxy) -on the [KronosV](https://www.kronos-wow.com/) **1.12.1** server.
 
 
 // Backport changelog
