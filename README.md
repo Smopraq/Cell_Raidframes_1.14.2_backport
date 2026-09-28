@@ -3,7 +3,7 @@
 
 // Backport of the beautiful [Cell Raidframes]([url](https://www.curseforge.com/wow/addons/cell)) addon made by [Enderneko]([url](https://github.com/enderneko)).
 
-// An addon so nice, even [blizzard is charmed by the thing]. ([<img width="500" height="550" alt="image" src="https://github.com/user-attachments/assets/73bd1fff-8627-489c-9c51-83a4f3020337" />](https://worldofwarcraft.blizzard.com/en-us/news/24244638))
+// An addon so nice, even [blizzard is charmed by the thing]. ([<img width="500" height="550" alt="image" src="https://github.com/user-attachments/assets/73bd1fff-8627-489c-9c51-83a4f3020337" />]([https://worldofwarcraft.blizzard.com/en-us/news/24244638](https://private-user-images.githubusercontent.com/39970025/660400842-73bd1fff-8627-489c-9c51-83a4f3020337.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA2MDgwMDMsIm5iZiI6MTc5MDYwNzcwMywicGF0aCI6Ii8zOTk3MDAyNS82NjA0MDA4NDItNzNiZDFmZmYtODYyNy00ODljLTljNTEtODNhNGYzMDIwMzM3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTI4VDE1MDE0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE1NGY5ZjQ4M2VmZTRlOGM4MDNjZDgyODdmNjQxNWRiNDA4MmRkMzU0NzVjYmY1ZjIzM2VmODE0NTM2NGFlZTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.rvJNl5d1SwiLviUujvUHNxG9v-hcPFoAxIpi1AOSZjU)))
 
 ([source: original artikal](https://worldofwarcraft.blizzard.com/en-us/news/24244638))]
 
