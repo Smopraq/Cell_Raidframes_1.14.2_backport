@@ -14,14 +14,11 @@
 
 // made to work for the WoW client **1.14.2** that runs via the [**jimproxy**](https://github.com/jameopotato/jimsproxy) on the [KronosV](https://www.kronos-wow.com/) **1.12.1** server.
 
-
-// Backport coded by Smopraq
-
-
+// Coded by Smopraq
 
 // Backport changelog
 
-//[Backport v17]
+[Backport v17]
 
 - Add a 1.14.2 compatibility fallback for `GetThreatStatusColor`, preventing Aggro Bar, Aggro Border, and Aggro Blink Lua errors when the API is unavailable.
 - Restore missing indicator `num` values from Vanilla defaults, fixing the `SetValue(nil)` Lua error when opening Missing Buffs settings.
