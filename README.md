@@ -4,7 +4,7 @@
 // Backport of the beautiful [Cell Raidframes]([url](https://www.curseforge.com/wow/addons/cell)) addon made by [Enderneko]([url](https://github.com/enderneko)).
 
 // An addon so nice, even [blizzard is charmed by the thing].
-[<img width="1492" height="1796" alt="image" src="https://github.com/user-attachments/assets/d6338ee8-32be-4cce-83af-0db528215269" />](https://worldofwarcraft.blizzard.com/en-us/news/24244638#:~:text=Healing%20and%20Raid%20Frames)
+[<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/d6338ee8-32be-4cce-83af-0db528215269" />](https://worldofwarcraft.blizzard.com/en-us/news/24244638#:~:text=Healing%20and%20Raid%20Frames)
 
 
 ([source: original artikal](https://worldofwarcraft.blizzard.com/en-us/news/24244638))]
