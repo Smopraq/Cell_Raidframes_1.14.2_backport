@@ -5,9 +5,7 @@
 
 // An addon so nice, even [blizzard is charmed by the thing].
 [<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/d6338ee8-32be-4cce-83af-0db528215269" />](https://worldofwarcraft.blizzard.com/en-us/news/24244638#:~:text=Healing%20and%20Raid%20Frames)
-
-
-([source: original artikal](https://worldofwarcraft.blizzard.com/en-us/news/24244638))]
+[source: original artikal](https://worldofwarcraft.blizzard.com/en-us/news/24244638#:~:text=Healing%20and%20Raid%20Frames)
 
 
 
@@ -16,11 +14,11 @@
 
 
 
-// made to work on the 1.14.2 [jimproxy]([url](https://github.com/jameopotato/jimsproxy)) -> [KronosV]([url](https://www.kronos-wow.com/)) 1.12.1 server
+// made to work for the World of warcraft client v1.14.2 that runs with the [jimproxy]([url](https://github.com/jameopotato/jimsproxy)) -on the [KronosV]([url](https://www.kronos-wow.com/)) 1.12.1 server.
 
 
 
-// Backport changelog // current version - v17
+// Backport changelog
 
 
 [Backport v17]
